@@ -1,0 +1,24 @@
+WELDING SIMULATION PARAMETERS
+========================================
+Material: Сталь 20
+Plate length (l): 10.0 cm
+Thermal diffusivity (a): 0.1 cm^2/s
+Volumetric heat capacity (c_V): 4.2 J/(cm^3*C)
+Thermal conductivity (lam): 0.5 W/(cm*C)
+Density (rho): 7.85 g/cm^3
+Melting temp (T_melt): 1510.0 C
+Quenching temp (T_harden): 723.0 C
+Initial temp (T_init): 20.0 C
+----------------------------------------
+Source type: gauss
+Max power (q_max): 10000.0 W/cm^3
+Source time (t_source): 5.0 s
+Gauss coefficient (k): 5.0 1/cm^2
+----------------------------------------
+Boundary flux q1: 0.0 W/cm^2
+Boundary flux q2: 0.0 W/cm^2
+----------------------------------------
+Max time (t_max): 60.0 s
+Time steps (N_t): 120
+Fourier terms (N_terms): 80
+Observation point (y_A): 4.5 cm

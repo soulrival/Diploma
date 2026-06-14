@@ -1,0 +1,16 @@
+{
+  "steel_20_rectangular": {
+    "material": "Сталь 20",
+    "source_type": "rect",
+    "expected_T_max_range": [1510, 3000],
+    "expected_weld_width_min_cm": 0.5,
+    "expected_t85_range_s": [5.0, 150.0],
+    "expected_structure_keywords": ["Мартенсит", "Бейнит", "Перлит"]
+  },
+  "aluminum_gaussian": {
+    "material": "Алюминий АМг5",
+    "source_type": "gauss",
+    "expected_T_max_range": [660, 1200],
+    "expected_haz_text_contains": "T_рекр"
+  }
+}
