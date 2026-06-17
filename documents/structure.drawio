@@ -1,0 +1,91 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Страница-1" id="vtV6HdIf4Ts9Sgr1kJSC">
+    <mxGraphModel dx="464" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-1" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;Пользователь&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-2" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;Слой&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;прдставления&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;(GUI)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;rotation=-90;verticalAlign=top;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="219" y="60" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-6" value="&lt;font style=&quot;font-size: 14px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Сквозная функциональность&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;verticalAlign=top;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-7" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;Бизнес-слой&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;(Ядро расчета)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;rotation=-90;verticalAlign=top;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-8" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;Слой&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;&lt;b&gt;данных&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;rotation=-90;verticalAlign=top;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent;&quot;&gt;Компоненты интерфейса (tkinter)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-10" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Визуализация графиков (matplotlib)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="245" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-11" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Управление параметрами (ползунки, кнопки)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-12" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Расчет температурного поля (КИП)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-13" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Анализ метрик (ширина шва, t₈/₅)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="405" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-14" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Работа с материалами (JSON)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-15" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;База материалов (JSON-файлы)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="530" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-18" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Экспорт результатов (CSV, PNG, TXT)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-19" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Обработка ошибок&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="366.5" y="406.5" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-20" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Векторизация (Numpy)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="406.5" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-21" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Тестирование (pytest)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="405" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PYlMN6fBIOjZB_th6fFQ-1" target="PYlMN6fBIOjZB_th6fFQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="PYlMN6fBIOjZB_th6fFQ-7" target="PYlMN6fBIOjZB_th6fFQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="280" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-27" value="Запрос расчёта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="PYlMN6fBIOjZB_th6fFQ-23">
+          <mxGeometry x="0.1005" y="1" relative="1" as="geometry">
+            <mxPoint x="-48" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-28" value="Результаты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="PYlMN6fBIOjZB_th6fFQ-23">
+          <mxGeometry x="-0.1005" y="-1" relative="1" as="geometry">
+            <mxPoint x="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="PYlMN6fBIOjZB_th6fFQ-8" target="PYlMN6fBIOjZB_th6fFQ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="400" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PYlMN6fBIOjZB_th6fFQ-25" value="Чтение/запись материалов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="PYlMN6fBIOjZB_th6fFQ-24">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint x="85" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
